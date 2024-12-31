@@ -12,8 +12,8 @@ import logging
 import logging.config
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@movies_wale_bhaiya
+# Ask Doubt on telegram @Team_Deity
 
 # Get logging configurations
 logging.config.fileConfig('logging.conf')
@@ -28,8 +28,8 @@ logging.getLogger("aiohttp").setLevel(logging.ERROR)
 logging.getLogger("aiohttp.web").setLevel(logging.ERROR)
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@movies_wale_bhaiya
+# Ask Doubt on telegram @Team_Deity
 
 
 from pyrogram import Client, __version__
@@ -44,8 +44,8 @@ from aiohttp import web
 from TechVJ.server import web_server
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@movies_wale_bhaiya
+# Ask Doubt on telegram @Team_Deity
 
 import asyncio
 from pyrogram import idle
@@ -55,8 +55,8 @@ from TechVJ.utils.keepalive import ping_server
 from TechVJ.bot.clients import initialize_clients
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@movies_wale_bhaiya
+# Ask Doubt on telegram @Team_Deity
 
 
 ppath = "plugins/*.py"
@@ -65,8 +65,8 @@ StreamBot.start()
 loop = asyncio.get_event_loop()
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@movies_wale_bhaiya
+# Ask Doubt on telegram @Team_Deity
 
 
 async def start():
@@ -104,8 +104,8 @@ async def start():
     await idle()
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@movies_wale_bhaiya
+# Ask Doubt on telegram @Team_Deity
 
 if __name__ == '__main__':
     try:
@@ -115,5 +115,5 @@ if __name__ == '__main__':
 
 
 # Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@movies_wale_bhaiya
+# Ask Doubt on telegram @Team_Deity
